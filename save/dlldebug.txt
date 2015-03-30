@@ -1,0 +1,28 @@
+Channel 0 :
+use card Radar ---- HW code=1
+--------------------------------
+use card TV ---- HW code=0
+--------------------------------
+Channel 1 :
+use card Radar ---- HW code=2
+--------------------------------
+use card TV ---- HW code=0
+--------------------------------
+--------------------------------
+-----my widget 1 is creating, ID=1-----
+---------data pool created! -----
+---------ppi class created! -----
+---------decay class created! -----
+---------mark class created! -----
+---------AR class created! -----
+---------my widget's painter created! -----
+-----my widget 1 created, ID=1-----
+-----my widget 2 is creating, ID=1-----
+---------data pool created! -----
+---------ppi class created! -----
+---------decay class created! -----
+---------mark class created! -----
+---------AR class created! -----
+---------my widget's painter created! -----
+-----my widget 2 created, ID=0-----
+--------the outer main class created!--------

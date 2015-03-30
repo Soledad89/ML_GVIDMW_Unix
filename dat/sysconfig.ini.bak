@@ -1,0 +1,14 @@
+
+# This is a config file.
+# Case Insensitive
+
+[tv1]
+user = galileo
+pwd = ipcam
+address = 192.168.1.69
+
+[tv2]
+user = galileo
+pwd = ipcam
+address = 192.168.1.96
+
